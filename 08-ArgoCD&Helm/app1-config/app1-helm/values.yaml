@@ -3,7 +3,7 @@ app:
 
 image:
   repository: nginx
-  tag: "1.25"
+  tag: latest
 
 replicaCount: 1
 
